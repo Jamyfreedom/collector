@@ -1,0 +1,19 @@
+[cveDict]
+
+[ovalDict]
+
+[gost]
+
+[exploit]
+
+[metasploit]
+
+[default]
+
+[servers]
+
+[servers.127-0-0-1]
+host               = "127.0.0.1"
+port               = "local"
+user               = "root"
+scanMode           = ["fast", "offline"]

@@ -1,0 +1,13 @@
+ ext2 
+ ext3 
+ ext4 
+ xfs 
+ zfs 
+ vfat 
+ fat12 
+ fat16 
+ fat32 
+ btrfs 
+ ufs 
+ ufs2 
+ jfs 
